@@ -2368,6 +2368,9 @@ ul.breadcrumb li:last-child {
   border-bottom-color: #111;
   color: #111;
 }
+.utterances {
+  max-width: unset;
+}
 .use-motion .animated {
   animation-fill-mode: none;
   visibility: inherit;
@@ -2532,7 +2535,7 @@ ul.breadcrumb li:last-child {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #16340b;
+  background: #450622;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
