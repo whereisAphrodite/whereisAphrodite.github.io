@@ -1,7 +1,7 @@
 ---
 title: "a blink of memory"
-date: "2022-11-05T14:26:40.000Z"
-updated: "2022-11-05T14:38:59.805Z"
+date: "2022-11-05 07:26:40.000"
+updated: "2022-11-05 07:38:59.805"
 permalink: "2022/11/05/a-blink-of-memory/"
 tags: ["normal and(/or) abnormal"]
 ---

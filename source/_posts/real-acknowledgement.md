@@ -1,7 +1,7 @@
 ---
 title: "real acknowledgement"
-date: "2025-05-19T02:22:03.000Z"
-updated: "2025-05-19T03:22:52.588Z"
+date: "2025-05-18 19:22:03.000"
+updated: "2025-05-18 20:22:52.588"
 permalink: "2025/05/19/real-acknowledgement/"
 tags: []
 ---

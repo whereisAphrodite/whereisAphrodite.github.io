@@ -1,7 +1,7 @@
 ---
 title: "dream of tibet"
-date: "2023-04-23T14:38:28.000Z"
-updated: "2023-04-24T02:45:30.148Z"
+date: "2023-04-23 07:38:28.000"
+updated: "2023-04-23 19:45:30.148"
 permalink: "2023/04/23/dream-of-tibet/"
 tags: ["abnormal"]
 ---

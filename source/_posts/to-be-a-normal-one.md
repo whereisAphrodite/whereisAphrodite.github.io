@@ -1,7 +1,7 @@
 ---
 title: "to be a normal one"
-date: "2022-06-23T15:42:51.000Z"
-updated: "2022-06-24T03:14:47.147Z"
+date: "2022-06-23 08:42:51.000"
+updated: "2022-06-23 20:14:47.147"
 permalink: "2022/06/23/to-be-a-normal-one/"
 tags: ["emo", "normal&abnormal"]
 ---

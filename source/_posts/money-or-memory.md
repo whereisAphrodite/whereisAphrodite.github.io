@@ -1,7 +1,7 @@
 ---
 title: "money or memory"
-date: "2022-06-27T14:34:03.000Z"
-updated: "2022-06-27T14:51:03.195Z"
+date: "2022-06-27 07:34:03.000"
+updated: "2022-06-27 07:51:03.195"
 permalink: "2022/06/27/money-or-memory/"
 tags: ["normal and(/or) abnormal"]
 ---
