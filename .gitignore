@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+public/
+db.json
+_multiconfig.yml
+source/_drafts/
+.DS_Store

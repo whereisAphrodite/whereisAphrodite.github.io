@@ -1,0 +1,21 @@
+# Appearance: keep overrides here so theme updates do not overwrite them.
+scheme: Muse
+darkmode: false
+
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
+
+custom_file_path:
+  style: source/_data/styles.styl
+
+# Render text immediately, including when animation scripts are unavailable.
+motion:
+  enable: false
+
+utterances:
+  enable: true
+  repo: whereisAphrodite/blog_comments
+  issue_term: pathname
+  theme: github-light
